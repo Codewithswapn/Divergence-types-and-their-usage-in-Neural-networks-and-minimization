@@ -1,0 +1,1 @@
+# Divergence-types-and-their-usage-in-Neural-networks-and-minimization
